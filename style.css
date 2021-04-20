@@ -1,0 +1,27 @@
+
+body {
+    font-family: consolas;
+}
+
+.plat {
+    border: solid 10px lightseagreen;
+    border-radius: 20px;
+}
+
+.la-times, .la-circle, .la-balance-scale {
+    font-size: 4rem;
+}
+
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+td {
+    border: solid 5px lightgray;
+}
+
+.cell {
+    height: 6rem;
+    width: 6rem;
+}
